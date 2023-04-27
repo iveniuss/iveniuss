@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ivan
 - 👀 I’m interested in Python development
-- 🌱 I’m currently learning Databases
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate with @skosarevv
 - 📫 How to reach me: https://t.me/iveniuss
 
