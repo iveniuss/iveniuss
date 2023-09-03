@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Ivan
-- 👀 I’m interested in Python development
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: https://t.me/iveniuss
 
