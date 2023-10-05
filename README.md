@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ivan
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C#
 - 📫 How to reach me: https://t.me/iveniuss
 
 <!---
